@@ -1,2 +1,3 @@
-**Họ và tên:** Nguyễn Quốc An
-- **Môn học:** Thực hành Python
+# BÀI TẬP PYTHON
+- **Họ và tên:** Nguyễn Quốc An **Lớp:** CS1
+- **Môn học:** Python cơ bản
